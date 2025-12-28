@@ -1,0 +1,8 @@
+
+{
+  "name": "Madam Ji - Attendance Management",
+  "description": "A comprehensive attendance tracking system for Admin, Teachers, and Students featuring AI insights, CSV exports, and role-based access control.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}

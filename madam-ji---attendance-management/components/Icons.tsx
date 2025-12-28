@@ -1,0 +1,50 @@
+
+import { 
+  LayoutDashboard, 
+  Users, 
+  UserPlus, 
+  Calendar, 
+  Settings, 
+  LogOut, 
+  Moon, 
+  Sun, 
+  Download, 
+  Bell, 
+  History, 
+  ChevronRight,
+  Plus,
+  Trash2,
+  Edit,
+  Search,
+  CheckCircle2,
+  XCircle,
+  Clock,
+  ShieldCheck,
+  Zap
+} from 'lucide-react';
+
+export const Icons = {
+  Dashboard: LayoutDashboard,
+  Users,
+  UserPlus,
+  Calendar,
+  Settings,
+  LogOut,
+  Moon,
+  Sun,
+  Download,
+  Bell,
+  History,
+  ChevronRight,
+  Plus,
+  Trash: Trash2,
+  Edit,
+  Search,
+  Present: CheckCircle2,
+  Absent: XCircle,
+  Late: Clock,
+  Admin: ShieldCheck,
+  Insights: Zap,
+  // Added Zap to match its usage in Dashboard.tsx
+  Zap: Zap
+};
